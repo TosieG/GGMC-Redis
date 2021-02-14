@@ -1,0 +1,7 @@
+name: GGMCRedis
+version: ${project.version}
+main: pl.ggmc.ggmc.ggmcredis.GGMCRedis
+api-version: 1.13
+authors: [TosieG]
+description: GGMC.PL Redis Sync
+website: ggmc.pl
